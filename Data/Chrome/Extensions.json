@@ -1,0 +1,336 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "Make Money Tips",
+            "id": "bbkpcelkhnfodicolnjikacaafmcimda",
+            "version": "1.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Screen Capture (by Google)",
+            "id": "cpngackimfmofbokmjmljamhdncknpmg",
+            "version": "6.0",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "Economist Radio",
+            "id": "pokaljfafjmhnoofahjignaelkgahpml",
+            "version": "3.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "FVD Downloader",
+            "id": "lfmhcpmkbdkbgbmkjoiopeeegenkdikp",
+            "version": "6.3.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "FastestFox for Chrome",
+            "id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "version": "8.3.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Translate",
+            "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
+            "version": "2.0.6",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "Facebook Fast Delete Messages",
+            "id": "klmpnhheahecaojonebajllddfhpilan",
+            "version": "0.3",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "The Great Suspender",
+            "id": "klbibkeccnjlkjkiokjodocebajanakg",
+            "version": "6.21",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Disconnect",
+            "id": "jeoacafpbcihiomhlakheieifhpjdfeo",
+            "version": "5.18.23",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "BugMeNot Lite",
+            "id": "lackfehpdclhclidcbbfcemcpolgdgnb",
+            "version": "0.3.10",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "StayFocusd",
+            "id": "laankejkbhbdhmipfmgcngdelahlfoji",
+            "version": "1.5.7",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "InstantQueue for Youtube",
+            "id": "pcbfkaibdlhhihdijcodacddmgflalnm",
+            "version": "0.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Boomerang for Gmail",
+            "id": "mdanidgdpmkimeiiojknlnekblgmpdll",
+            "version": "1.2.6",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Add to Amazon Wish List",
+            "id": "ciagpekplgpbepdgggflgmahnjgiaced",
+            "version": "1.0.0.11",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "RSS Feed Reader",
+            "id": "pnjaodmkngahhkoihejjehlcdlnohgmp",
+            "version": "5.5.4",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "Video Downloader professional",
+            "id": "elicpjhcidhpjomhibiffojpinpmmpil",
+            "version": "1.97.54",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "The Camelizer",
+            "id": "ghnomdcacenbmilgjigehppbamfndblo",
+            "version": "2.8.2",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Eye Dropper",
+            "id": "hmdcmlfkchdmnmnmheododdhjedfccka",
+            "version": "0.4.3",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "News Feed Eradicator for Facebook",
+            "id": "fjcldmjmjhkklehbacihaiopjklihlgg",
+            "version": "1.0.2",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Facebook Pixel Helper",
+            "id": "fdgfkebogiimcoedlicjlajpkdmockpc",
+            "version": "0.7.8",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "uBlock Origin",
+            "id": "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+            "version": "1.9.16",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Ghostery",
+            "id": "mlomiejdfkolichcflejclcbmpeaniij",
+            "version": "7.1.0.49",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Save to Pocket",
+            "id": "niloccemoadcdkdjlinkgdfekeahmflj",
+            "version": "2.1.11",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Social Fixer for Facebook",
+            "id": "ifmhoabcaeehkljcfclfiieohkohdgbb",
+            "version": "16.0.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "SnappySnippet",
+            "id": "blfngdefapoapkcdibbdkigpeaffgcil",
+            "version": "0.5",
+            "enabled": true
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "laankejkbhbdhmipfmgcngdelahlfoji",
+            "value": "{}",
+            "key": "blacklist"
+},
+        {
+            "extension_id": "laankejkbhbdhmipfmgcngdelahlfoji",
+            "value": "{}",
+            "key": "whitelist"
+},
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "\"6.6.4\"",
+            "key": "pref.last-version"
+},
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "true",
+            "key": "pref/enable-optional"
+},
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "\"8.3.0\"",
+            "key": "pref/last-version"
+},
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "\"8.3.0\"",
+            "key": "pref/last-version2"
+},
+        {
+            "extension_id": "fdgfkebogiimcoedlicjlajpkdmockpc",
+            "value": "true",
+            "key": "installed"
+},
+        {
+            "extension_id": "hmdcmlfkchdmnmnmheododdhjedfccka",
+            "value": "{\"cp\":\"converted\",\"lc\":\"#15387f\",\"v\":13}",
+            "key": "history"
+},
+        {
+            "extension_id": "hmdcmlfkchdmnmnmheododdhjedfccka",
+            "value": "{\"autoClipboard\":false,\"autoClipboardNoGrid\":false,\"dropperCursor\":\"default\",\"enableColorToolbox\":true,\"enableColorTooltip\":true,\"enableRightClickDeactivate\":true}",
+            "key": "settings"
+},
+        {
+            "extension_id": "hmdcmlfkchdmnmnmheododdhjedfccka",
+            "value": "{\"c\":[{\"f\":0,\"h\":\"#73bce4\",\"n\":\"\",\"s\":3,\"t\":1471220527144.0},{\"f\":0,\"h\":\"#000000\",\"n\":\"\",\"s\":3,\"t\":1471220527144.0},{\"f\":0,\"h\":\"#fffffe\",\"n\":\"\",\"s\":3,\"t\":1471220527144.0},{\"f\":0,\"h\":\"#15387f\",\"n\":\"\",\"s\":3,\"t\":1471220527144.0}],\"t\":1471220527140.0}",
+            "key": "palette.converted"
+},
+        {
+            "extension_id": "hmdcmlfkchdmnmnmheododdhjedfccka",
+            "value": "{\"c\":[],\"t\":1471220527136.0}",
+            "key": "palette.default"
+},
+        {
+            "extension_id": "laankejkbhbdhmipfmgcngdelahlfoji",
+            "value": "{\"backupKeys\":3,\"blacklist\":2,\"disableUpdatePopup\":3,\"isUpdated\":3,\"outgoingLink\":3,\"previousVersion\":3,\"productivityBypass\":3,\"whitelist\":2}",
+            "key": "storageMap"
+}
+    ]
+}

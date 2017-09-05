@@ -1,0 +1,448 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "zy",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google Drive",
+                        "id": "apdfllckaahabafndbhieahigkjlhalf",
+                        "version": "6.3",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "y",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Web Lab",
+                        "id": "fgacgeibpdjllcjckbmgecpahipdjabe",
+                        "version": "1.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zs",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Punchfork",
+                        "id": "mglgcdnneonaooklejapohacifddejom",
+                        "version": "4",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zyn",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Free Video Downloader",
+                        "id": "eonofnjamljdejnplcoconeepjpnkhjh",
+                        "version": "2.2.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zv",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Consmr",
+                        "id": "giihfllfnahjbghdfbknbdehclpcfmnh",
+                        "version": "3",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "yn",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "BIODIGITAL HUMAN",
+                        "id": "agoenciogemlojlhccbcpcfflicgnaak",
+                        "version": "3.1.3",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zx",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Desmos Graphing Calculator",
+                        "id": "bhdheahnajobgndecdbggfmcojekgdko",
+                        "version": "2.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "yn",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Cloud Drive, URL to ChromeCast™",
+                        "id": "mehfijocnmclokiknjjpcbddbekagnik",
+                        "version": "1.0.1.3",
+                        "enabled": true
+            },
+            "page_ordinal": "t"
+},
+        {
+            "app_launch_ordinal": "z",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Vuru",
+                        "id": "bjkomipldgcookljbkgffaegdaaohllb",
+                        "version": "2.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zyg",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Chrome",
+                        "id": "mgndgikekgjfcpckkfioiadnlibdjbkf",
+                        "version": "0.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "n",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zm",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Task Timer",
+                        "id": "aomfjmibjhhfdenfkpaodhnlhkolngif",
+                        "version": "3.10.6",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "z",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "HP Print for Chrome",
+                        "id": "cjanmonomjogheabiocdamfpknlpdehm",
+                        "version": "16.1.16",
+                        "enabled": true
+            },
+            "page_ordinal": "t"
+},
+        {
+            "app_launch_ordinal": "zz",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "feedly",
+                        "id": "hipbfijinpcgfogaopmgehiegacbhmob",
+                        "version": "35",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [
+        {"extension_setting": {
+            "extension_id": "mkaemigholebcgchlkbankmihknojeak",
+            "value": "\"1B2M2Y8AsgTpgAmY7PhCfg\u003d\u003d\"",
+            "key": "syncedHashV1"
+}}
+    ],
+    "Preferences": [
+        {
+            "name": "profile.avatar_index",
+            "value": "0"
+},
+        {
+            "name": "profile.content_settings.clear_on_exit_migrated",
+            "value": "true"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{}"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "profile.name",
+            "value": "\"First user\""
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "4"
+},
+        {
+            "name": "session.urls_to_restore_on_startup",
+            "value": "[\"http://www.yahoo.com/\"]"
+},
+        {
+            "name": "autofill.auxiliary_profiles_enabled",
+            "value": "false"
+},
+        {
+            "name": "browser.show_home_button",
+            "value": "true"
+},
+        {
+            "name": "default_search_provider.synced_guid",
+            "value": "\"BA809364-40A9-7E53-4895-8FF1D679C1ED\""
+},
+        {
+            "name": "translate_language_blacklist",
+            "value": "[\"es\"]"
+},
+        {
+            "name": "profile.is_managed",
+            "value": "false"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "profile.managed_user_id",
+            "value": "\"\""
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-US,en,es\""
+},
+        {
+            "name": "translate_blocked_languages",
+            "value": "[\"en\",\"es\"]"
+},
+        {
+            "name": "synced_notification.initialized_sending_services",
+            "value": "[\"Google+\"]"
+},
+        {
+            "name": "synced_notification.enabled_sending_services",
+            "value": "[\"Google+\"]"
+},
+        {
+            "name": "homepage",
+            "value": "\"http://en.wikipedia.org/wiki/Special:Randompage\""
+},
+        {
+            "name": "homepage_is_newtabpage",
+            "value": "false"
+},
+        {
+            "name": "session.startup_urls",
+            "value": "[\"http://www.yahoo.com/\"]"
+},
+        {
+            "name": "translate_denied_count",
+            "value": "{\"es\":10,\"fr\":2,\"ja\":0,\"pl\":1,\"pt\":1,\"ro\":1,\"ru\":0,\"zh-CN\":0}"
+},
+        {
+            "name": "browser.clear_data.passwords",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.browsing_history",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.download_history",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.time_period",
+            "value": "4"
+},
+        {
+            "name": "hotword.previous_language",
+            "value": "\"en-US\""
+},
+        {
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.protocol_handlers",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.mixed_script",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.mouselock",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.push_messaging",
+            "value": "{}"
+},
+        {
+            "name": "hotword.audio_logging_enabled",
+            "value": "false"
+},
+        {
+            "name": "profile.migrated_default_content_settings",
+            "value": "false"
+},
+        {
+            "name": "profile.content_settings.pattern_pairs",
+            "value": "{}"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"mac:Alt+P\":{\"command_name\":\"activate\",\"extension\":\"hmdcmlfkchdmnmnmheododdhjedfccka\",\"global\":false},\"mac:Command+Shift+U\":{\"command_name\":\"2-unsuspend-tab\",\"extension\":\"klbibkeccnjlkjkiokjodocebajanakg\",\"global\":false},\"windows:Ctrl+D\":{\"command_name\":\"_execute_page_action\",\"extension\":\"gmlllbghnfkpflemihljekbapjopfjik\",\"global\":false},\"windows:Ctrl+Shift+S\":{\"command_name\":\"1-suspend-tab\",\"extension\":\"klbibkeccnjlkjkiokjodocebajanakg\",\"global\":false},\"windows:Ctrl+Shift+U\":{\"command_name\":\"2-unsuspend-tab\",\"extension\":\"klbibkeccnjlkjkiokjodocebajanakg\",\"global\":false}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.fullscreen",
+            "value": "{\"[*.]vimeo.com,*\":{\"setting\":1},\"[*.]www.netflix.com,*\":{\"setting\":1},\"[*.]www.slideshare.net,*\":{\"setting\":1},\"https://[*.]www.youtube.com:443,*\":{\"setting\":1},\"https://docs.google.com:443,https://docs.google.com:443\":{\"setting\":1}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.keygen",
+            "value": "{}"
+},
+        {
+            "name": "toolbar_icon_surfacing_bubble_acknowledged",
+            "value": "true"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"de\":0,\"fr\":0,\"zh-CN\":1}"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "true"
+},
+        {
+            "name": "profile.default_content_setting_values.popups",
+            "value": "2"
+},
+        {
+            "name": "profile.password_manager_enabled",
+            "value": "true"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"fr\":0}"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"de\":1,\"es\":0,\"fr\":2,\"ja\":1,\"pl\":0,\"pt\":0,\"ro\":0,\"ru\":1,\"zh-CN\":0}"
+},
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "browser.back_shortcut_bubble_shown_count",
+            "value": "2"
+},
+        {
+            "name": "browser.clear_data.cache",
+            "value": "false"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"https://[*.]mg.mail.yahoo.com:443,*\":{\"setting\":1},\"https://mg.mail.yahoo.com:443,*\":{\"setting\":1}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{\"[*.]education.investools.com,*\":{\"setting\":1},\"[*.]my.sandiego.edu,*\":{\"setting\":1},\"[*.]sandiego.padres.mlb.com,*\":{\"setting\":1},\"[*.]www.gybo.com,*\":{\"setting\":1},\"http://education.investools.com:80,*\":{\"setting\":1},\"http://my.sandiego.edu:80,*\":{\"setting\":1},\"http://sandiego.padres.mlb.com:80,*\":{\"setting\":1},\"http://www.gybo.com:80,*\":{\"setting\":1},\"https://[*.]commerce.cashnet.com:443,*\":{\"setting\":1},\"https://[*.]mail.google.com:443,*\":{\"setting\":1},\"https://[*.]parent.sduhsd.net:443,*\":{\"setting\":1},\"https://[*.]support.pearson.com:443,*\":{\"setting\":1},\"https://[*.]wwws.ameritrade.com:443,*\":{\"setting\":1},\"https://commerce.cashnet.com:443,*\":{\"setting\":1},\"https://mail.google.com:443,*\":{\"setting\":1},\"https://parent.sduhsd.net:443,*\":{\"setting\":1},\"https://support.pearson.com:443,*\":{\"setting\":1},\"https://wwws.ameritrade.com:443,*\":{\"setting\":1}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{\"[*.]events.mtsac.edu,*\":{\"setting\":1},\"[*.]noexcuselist.com,*\":{\"setting\":1},\"[*.]qprn.ca,*\":{\"setting\":1},\"[*.]syndication.cnbc.com,*\":{\"setting\":1},\"[*.]toolbox.investools.com,*\":{\"setting\":1},\"[*.]tools.meraki.com,*\":{\"setting\":1},\"[*.]tp.sduhsd.net,*\":{\"setting\":1},\"[*.]www.cs.odu.edu,*\":{\"setting\":1},\"[*.]www.dreamstime.com,*\":{\"setting\":1},\"[*.]www.freemp3go.org,*\":{\"setting\":1},\"[*.]www.mathopenref.com,*\":{\"setting\":1},\"[*.]www.optiontradingpedia.com,*\":{\"setting\":1},\"[*.]www.rcsb.org,*\":{\"setting\":1},\"[*.]www.rjsproptrading.com,*\":{\"setting\":1},\"[*.]www.screencast.com,*\":{\"setting\":1},\"[*.]www.stocktrading.com,*\":{\"setting\":1},\"[*.]www.thetechnicaltraders.com,*\":{\"setting\":1},\"[*.]www.wolframalpha.com,*\":{\"setting\":1},\"http://events.mtsac.edu:80,*\":{\"setting\":1},\"http://noexcuselist.com:80,*\":{\"setting\":1},\"http://qprn.ca:80,*\":{\"setting\":1},\"http://syndication.cnbc.com:80,*\":{\"setting\":1},\"http://toolbox.investools.com:80,*\":{\"setting\":1},\"http://tools.meraki.com:80,*\":{\"setting\":1},\"http://tp.sduhsd.net:80,*\":{\"setting\":1},\"http://www.cs.odu.edu:80,*\":{\"setting\":1},\"http://www.dreamstime.com:80,*\":{\"setting\":1},\"http://www.freemp3go.org:80,*\":{\"setting\":1},\"http://www.mathopenref.com:80,*\":{\"setting\":1},\"http://www.optiontradingpedia.com:80,*\":{\"setting\":1},\"http://www.rcsb.org:80,*\":{\"setting\":1},\"http://www.rjsproptrading.com:80,*\":{\"setting\":1},\"http://www.screencast.com:80,*\":{\"setting\":1},\"http://www.stocktrading.com:80,*\":{\"setting\":1},\"http://www.thetechnicaltraders.com:80,*\":{\"setting\":1},\"http://www.wolframalpha.com:80,*\":{\"setting\":1},\"https://[*.]bb.sduhsd.net:443,*\":{\"setting\":1},\"https://[*.]idp.godaddy.com:443,*\":{\"setting\":1},\"https://[*.]investools.webex.com:443,*\":{\"setting\":1},\"https://[*.]itunes.apple.com:443,*\":{\"setting\":1},\"https://[*.]pattta.att.motive.com:443,*\":{\"setting\":1},\"https://[*.]s3.amazonaws.com:443,*\":{\"setting\":1},\"https://[*.]www.apple.com:443,*\":{\"setting\":1},\"https://bb.sduhsd.net:443,*\":{\"setting\":1},\"https://idp.godaddy.com:443,*\":{\"setting\":1},\"https://investools.webex.com:443,*\":{\"setting\":1},\"https://itunes.apple.com:443,*\":{\"setting\":1},\"https://pattta.att.motive.com:443,*\":{\"setting\":1},\"https://s3.amazonaws.com:443,*\":{\"setting\":1},\"https://www.apple.com:443,*\":{\"setting\":1}}"
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"ciagpekplgpbepdgggflgmahnjgiaced\",\"aapbdbdomjkkjkaonfhkkikfgjllcleb\",\"pnjaodmkngahhkoihejjehlcdlnohgmp\",\"jeoacafpbcihiomhlakheieifhpjdfeo\",\"klbibkeccnjlkjkiokjodocebajanakg\",\"laankejkbhbdhmipfmgcngdelahlfoji\",\"hmdcmlfkchdmnmnmheododdhjedfccka\",\"fdgfkebogiimcoedlicjlajpkdmockpc\",\"cjpalhdlnbpafiamejdnhcphjbkeiagm\",\"mdanidgdpmkimeiiojknlnekblgmpdll\",\"ghnomdcacenbmilgjigehppbamfndblo\",\"niloccemoadcdkdjlinkgdfekeahmflj\",\"blfngdefapoapkcdibbdkigpeaffgcil\",\"elicpjhcidhpjomhibiffojpinpmmpil\",\"mlomiejdfkolichcflejclcbmpeaniij\",\"pokaljfafjmhnoofahjignaelkgahpml\",\"bbkpcelkhnfodicolnjikacaafmcimda\",\"lfmhcpmkbdkbgbmkjoiopeeegenkdikp\",\"ifmhoabcaeehkljcfclfiieohkohdgbb\",\"klmpnhheahecaojonebajllddfhpilan\",\"lackfehpdclhclidcbbfcemcpolgdgnb\",\"pcbfkaibdlhhihdijcodacddmgflalnm\",\"fjcldmjmjhkklehbacihaiopjklihlgg\"]"
+}
+    ],
+    "Themes": [
+        {
+            "custom_theme_id": "bkeidgmehkdjmpjodpjkepolokanalkm",
+            "custom_theme_update_url": "http://clients2.google.com/service/update2/crx",
+            "custom_theme_name": "James White",
+            "use_system_theme_by_default": false,
+            "use_custom_theme": true
+}
+    ],
+    "Managed Users": []
+}
